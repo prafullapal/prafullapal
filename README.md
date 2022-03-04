@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"width="28" /> My Github Stats</h2> </summary>
 <br/>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=himanshusanecha&show_icons=true&theme=nightowl&line_height=32">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusanecha&theme=algolia">
+  <img src = "https://github-readme-stats.vercel.app/api?username=prafullapal&show_icons=true&theme=nightowl&line_height=32">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prafullapal&theme=algolia">
 </p>
 <p align="center">
-    <img height="30" src="https://komarev.com/ghpvc/?username=himanshusanecha&color=orange&style=flat-square">
+    <img height="30" src="https://komarev.com/ghpvc/?username=prafullapal&color=orange&style=flat-square">
 </p>
