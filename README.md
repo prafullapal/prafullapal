@@ -18,10 +18,10 @@ Here are some ideas to get you started:
  
  ​<div align="center"> 
   
- ​<a href="https://github.com/gaurav712/github_stats"> 
+ ​<a href="https://github.com/prafullapal/github_stats"> 
  ​   
- ​![](https://raw.githubusercontent.com/gaurav712/github_stats/master/generated/overview.svg) 
- ​![](https://raw.githubusercontent.com/gaurav712/github_stats/master/generated/languages.svg) 
+ ​![](https://raw.githubusercontent.com/prafullapal/github_stats/master/generated/overview.svg) 
+ ​![](https://raw.githubusercontent.com/prafullapal/github_stats/master/generated/languages.svg) 
   
  ​</a> 
   
