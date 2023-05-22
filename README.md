@@ -13,8 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-### Hi there 👋
-Full Stack Web Development<br>MERN Stack Projects
+## Prafulla Pal
+
+👋 Hello, I'm Prafulla, an Electronics Engineering student with a passion for software development. I am a Full Stack MERN developer, proficient in Java, C++, JavaScript, and the MERN stack (MongoDB, Express.js, React.js, Node.js).
+
+📚 Currently pursuing my degree in Electronics Engineering, I enjoy exploring the intersections of electronics and software development, seeking innovative solutions to real-world problems.
+
+🚀 My journey as a developer has led me to work on a variety of projects, including a Social Media platform and an Ecommerce website. These experiences have sharpened my skills in building scalable and user-friendly applications.
+
+🎓 I have earned certifications in Server-side Development with NodeJS, Express and MongoDB and Front-End Web Development with React from Coursera, further strengthening my foundation in web development.
+
+✨ With a strong focus on continuous learning, I am dedicated to staying updated with the latest technologies and best practices in the industry. I am driven by a desire to contribute to open-source projects and collaborate with fellow developers.
+
+⚡️ Beyond coding, I enjoy immersing myself in diverse hobbies and interests, finding inspiration in various fields. This interdisciplinary approach fuels my creativity and problem-solving abilities.
+
+🌟 Let's connect and collaborate on exciting projects. Feel free to explore my repositories and reach out to me!
 
 
 ## 🌐 Socials:
